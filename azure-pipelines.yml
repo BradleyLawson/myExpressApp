@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '6e5511a5-19fe-414e-8ad5-172f971ba3fe'
+  azureSubscription: '65684f2a-01e2-443f-8763-39047d2a965b'
 
   # Web app name
   webAppName: 'bdlexpressapp'

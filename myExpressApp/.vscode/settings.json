@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/65684f2a-01e2-443f-8763-39047d2a965b/resourceGroups/bdlrg/providers/Microsoft.Web/sites/bdlexpressapp",
+    "appService.deploySubpath": "."
+}
